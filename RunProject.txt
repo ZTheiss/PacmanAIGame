@@ -1,0 +1,7 @@
+Batch File for testing
+
+#Demo
+C:\python27\python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+
+#Test 1
+C:\python27\python pacman.py -l tinyMaze -p SearchAgent
